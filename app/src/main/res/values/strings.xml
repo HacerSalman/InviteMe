@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InviteMe</string>
+    <string name="btn_location">Get Location</string>
+</resources>
