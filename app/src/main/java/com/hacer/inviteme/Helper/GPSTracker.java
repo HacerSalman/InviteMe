@@ -9,14 +9,7 @@ import android.location.LocationManager;
 import android.os.Bundle;
 import android.util.Log;
 import android.widget.Toast;
-
 import androidx.core.content.ContextCompat;
-
-import com.hacer.inviteme.MainActivity;
-
-import java.util.List;
-
-import cn.pedant.SweetAlert.SweetAlertDialog;
 
 import static android.content.Context.LOCATION_SERVICE;
 
